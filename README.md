@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit Sharma
 - 👀 I’m interested in Web and Android  development
 - 🌱 I’m currently learning java,C,Python and javascript's frameworks.
-- 💞️ I’m looking to collaborate on web developing projects.
+- 💞️ I’m looking to collaborate on Web and App development projects.
 - 📫 How to reach me ...mohitsharma20020720@gmail.com
 
 <!---
