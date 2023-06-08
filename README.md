@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mohit Sharma<br>- 👀 I’m interested in Full stack web developer<br>- 🌱 I’m currently Working and learning React.js and Next.js<br>- 💞️ I’m looking to collaborate on Web and App development projects.<br>- 📫 How to reach me ...midyoker9240@gmail.com<br><br>
+- 👋 Hi, I’m Mohit Sharma<br>- 👀 I’m interested in Full stack web developer<br>- 🌱 I’m currently Working and learning T3 Stack <br>- 💞️ I’m looking to collaborate on Web and App development projects.<br>- 📫 How to reach me ...midyoker9240@gmail.com<br><br>
 
 
 ## 🌐 Socials:
