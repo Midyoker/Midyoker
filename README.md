@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mohit Sharma<br>- 👀 I’m a Full stack  developer<br>- 🌱 I’m currently Working and learning T3 Stack <br>- 💞️ I’m looking to collaborate on Web and App development projects.<br>- 📫 reach me out...midyoker9240@gmail.com<br><br>
+- 👋 Hi, I’m Mohit Sharma, Reach out to know more about me !!
+- <br>
 
 
 ## 🌐 Socials:
