@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mohit Sharma, Reach out to know more about me !!
-- <br>
+- 👋 Hi, I’m Mohit Sharma, Reach out to know more about me !! <br>
 
 
 ## 🌐 Socials:
